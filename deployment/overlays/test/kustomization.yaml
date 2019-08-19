@@ -1,4 +1,4 @@
-namespace: apps
+namespace: default
 commonLabels:
   env: test
 bases:
