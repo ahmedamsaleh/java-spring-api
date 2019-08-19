@@ -7,7 +7,7 @@ spec:
     spec:
       containers:
       - name: spring-api
-        image: sybrenbolandit/java-spring-api
+        image: aasaleh/java-spring-api
         imagePullPolicy: Always
         ports:
         - containerPort: 8080
