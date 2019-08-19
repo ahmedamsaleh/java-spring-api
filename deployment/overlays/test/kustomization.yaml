@@ -1,4 +1,4 @@
-namespace: sybrenbolandit
+namespace: default
 commonLabels:
   env: test
 bases:
