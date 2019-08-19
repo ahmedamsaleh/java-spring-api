@@ -5,6 +5,7 @@ metadata:
 spec:
   template:
     spec:
+      serviceAccountName: wintering-grizzly-jenkins
       containers:
       - name: spring-api
         image: aasaleh/java-spring-api
